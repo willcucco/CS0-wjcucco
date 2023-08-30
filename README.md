@@ -1,1 +1,1 @@
-# CS0Theory-wjcucco
+# CS0-wjcucco
