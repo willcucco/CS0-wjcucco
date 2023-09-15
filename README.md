@@ -24,6 +24,6 @@ CS0 Theory homework repository
 | Description | A program that finds the mean of two numbers |
 | Due Date | 18-Sept-23 |
 | Status | Done |
-| Loacation |  |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/r2 |
 | Self Grade | 100/100 |
 | Notes | Completed all of the requirements and the program tested successfully. Screenshot found in "r2" folder |
