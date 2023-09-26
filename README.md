@@ -33,6 +33,19 @@ CS0 Theory homework repository
 
 | Name | Will Cucco |
 | --- | --- |
+| Name | Faktor |
+| Description | A program that uses an algorithm to find an answer |
+| Due Date | 25-Sept-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/faktor |
+| Self Grade | 100/100 |
+| Notes | Completed all of the requirements and the program tested successfully. Screenshot found in "faktor" folder |
+
+
+## Assignment 4
+
+| Name | Will Cucco |
+| --- | --- |
 | Name | Adding Trouble |
 | Description | A program that adds two numbers together and returns "correct!" or "wrong!" |
 | Due Date | 26-Sept-23 |

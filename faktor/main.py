@@ -14,28 +14,21 @@ Algorithm steps:
 2. Create an algorithm that can solve the problem
 """
 
-import sys
-
 
 def main():
     """Main function that solves the problem
     """
     # data = read_data()
     # ans = answer(data)
-    # print(ans)
+    line = input()
+    a, b = line.split()
+    a = int(a)
+    b = int(b)
+    ans = faktor(a, b)
+    print(ans)
 
 
-# def answer(a: int, b: int) -> int:
-    # """Function returns data input as answer
-    # Returns: number output
-    # """
-    # num1 = input()
-    # num2 = input()
-    # answer(num1, num2)
-    # return answer
-
-
-def faktor(articles, impact) -> int:
+def faktor(a, b) -> int:
     """_summary_
 
     Args:
@@ -45,26 +38,9 @@ def faktor(articles, impact) -> int:
     Returns:
         int: number of scientists
     """
-    num_scientists = int(articles)*(int(impact)-1)+1
-    print(num_scientists)
-    return faktor
-
-
-# def read_data() -> int:
-    # Reads the int data input and returns it
-    # Returns:
-    # int: data read from std input
-    # data = input()
-    # return data
+    ans = a*(b-1)+1
+    return ans
 
 
 if __name__ == "__main__":
-    a, i = sys.stdin.readline().split()
-    faktor(a, i)
-
-
-# articles, impact = map(int, input().split())
-
-# num_scientists = (articles * (impact - 1)) + 1
-
-# print (num_scientists)
+    main()
