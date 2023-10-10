@@ -53,3 +53,16 @@ CS0 Theory homework repository
 | Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/conditionals |
 | Self Grade | 100/100 |
 | Notes | Completed all of the requirements and the program tested successfully. Screenshot found in "conditionals" folder |
+
+
+## Assignment 5
+
+| Name | Will Cucco |
+| --- | --- |
+| Name | Odd Echo |
+| Description | A program that prints the odd numbered words from the input |
+| Due Date | 10-Oct-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/oddecho |
+| Self Grade | 85/100 |
+| Notes | Couldn't create a testable function, but the program tested successfully and was accepted by kattis. Screenshot found in "loop" folder |
