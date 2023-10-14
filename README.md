@@ -66,3 +66,16 @@ CS0 Theory homework repository
 | Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/oddecho |
 | Self Grade | 85/100 |
 | Notes | Couldn't create a testable function, but the program tested successfully and was accepted by kattis. Screenshot found in "loop" folder |
+
+
+## Assignment 6
+
+| Name | Will Cucco |
+| --- | --- |
+| Name | Avion |
+| Description | A program that finds "FBI" in an input and prints how many inputs conained "FBI" |
+| Due Date | 16-Oct-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/strings |
+| Self Grade | 100/100 |
+| Notes | Program tested successfully and was accepted by kattis. I also learned how to create a list of data that can be used at the end of the program. Screenshot found in "strings" folder |
