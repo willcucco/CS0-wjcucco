@@ -79,3 +79,16 @@ CS0 Theory homework repository
 | Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/strings |
 | Self Grade | 100/100 |
 | Notes | Program tested successfully and was accepted by kattis. I also learned how to create a list of data that can be used at the end of the program. Screenshot found in "strings" folder |
+
+
+## Assignment 7
+
+| Name | Will Cucco |
+| --- | --- |
+| Name | Falling Apart |
+| Description | A program that takes the highest number from a list, gives it to a person, and then removes it from the list |
+| Due Date | 23-Oct-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/lists |
+| Self Grade | 100/100 |
+| Notes | Program tested successfully and was accepted by kattis. Screenshot found in "lists" folder |
