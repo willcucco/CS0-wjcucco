@@ -42,21 +42,3 @@ def answer(PieceValue):
 
 if __name__ == "__main__":
     main()
-
-
-
-# n = int(input())
-#
-#
-# l = [int(x) for x in input().split]
-# alice = 0
-# bob = 0
-#
-# while l:
-#    alice += max(1)
-#    l.remove(max(1))
-#    if l:
-#        bob += max(1)
-#        l.remove(max(1))
-#
-# print(alice, bob)
