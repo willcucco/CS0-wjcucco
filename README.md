@@ -92,3 +92,16 @@ CS0 Theory homework repository
 | Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/lists |
 | Self Grade | 100/100 |
 | Notes | Program tested successfully and was accepted by kattis. Screenshot found in "lists" folder |
+
+
+## Assignment 8
+
+| Name | Will Cucco |
+| --- | --- |
+| Name | A New Alphabet |
+| Description | A program that reads the input and translates it using a currated alphabet |
+| Due Date | 30-Oct-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/dicts |
+| Self Grade | 100/100 |
+| Notes | Program tested successfully and was accepted by kattis. Screenshot found in "dicts" folder |
