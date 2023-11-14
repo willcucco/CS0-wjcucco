@@ -105,3 +105,16 @@ CS0 Theory homework repository
 | Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/dicts |
 | Self Grade | 100/100 |
 | Notes | Program tested successfully and was accepted by kattis. Screenshot found in "dicts" folder |
+
+
+## Assignment 9
+
+| Name | Will Cucco |
+| --- | --- |
+| Name | Last Factorial Digit |
+| Description | A program that finds the factorial of a number and prints the last digit |
+| Due Date | 17-Nov-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/recursion |
+| Self Grade | 100/100 |
+| Notes | Program tested successfully and was accepted by kattis. Screenshot found in "recursion" folder |
