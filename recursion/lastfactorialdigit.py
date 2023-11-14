@@ -27,6 +27,7 @@ def main():
 
 
 def find_num(num):
+    """Finds the factorial of input number"""
     find_factorial = math.factorial(num)
     return find_factorial
 
