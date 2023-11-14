@@ -2,7 +2,7 @@ import lastfactorialdigit
 
 
 def test_find_num():
-    """Test find_num function"""
+    """Tests find_num function"""
     assert lastfactorialdigit.find_num(5) == 120
 
 
