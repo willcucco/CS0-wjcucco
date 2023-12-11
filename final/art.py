@@ -1,5 +1,5 @@
 def display_hangman(tries):
-    """Displays the hangman drawing based on the number of tries left"""
+    """Displays hangman art based on the number of tries left"""
     ASCII = [  # final state: head, torso, both arms, and both legs
                 """
                    --------
