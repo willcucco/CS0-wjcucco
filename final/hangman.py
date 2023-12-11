@@ -54,7 +54,7 @@ def play_game(word):
     guessed = False
     guessed_letters = []
     tries = 6
-    print("Let's play Hangman!")
+    print("Let's play Hangman! Try to guess the car brand.")
     console.print(art.display_hangman(tries), style='bold')
     console.print(word_completion, style="green")
     print("\n")

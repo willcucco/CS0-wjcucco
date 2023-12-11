@@ -118,3 +118,16 @@ CS0 Theory homework repository
 | Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/recursion |
 | Self Grade | 100/100 |
 | Notes | Program tested successfully and was accepted by kattis. Screenshot found in "recursion" folder |
+
+
+## Final Assignment
+
+| Name | Will Cucco |
+| --- | --- |
+| Name | Hangman |
+| Description | Hangman game |
+| Due Date | 11-Dec-23 |
+| Status | Done |
+| Loacation | https://github.com/willcucco/CS0-wjcucco/tree/main/final |
+| Self Grade | 100/100 |
+| Notes | Game works as intended and has multiple different UI options created through the python Rich library. I completed all requirements as listed in the README except for having 2 fruitful functions. I was only able to create one fruitful function, but I have tested it in every possible way and it passes. |
